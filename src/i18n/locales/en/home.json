@@ -1,0 +1,14 @@
+{
+  "title": "Lark Template React",
+  "subtitle": "A modern React + TypeScript template with best practices",
+  "techStack": {
+    "buildTool": "Build Tool",
+    "buildToolValue": "Vite",
+    "state": "State",
+    "stateValue": "Zustand + TanStack Query",
+    "styling": "Styling",
+    "stylingValue": "Tailwind CSS",
+    "testing": "Testing",
+    "testingValue": "Vitest + Testing Library"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "قالب Lark React",
+  "subtitle": "قالب React + TypeScript حديث مع أفضل الممارسات",
+  "techStack": {
+    "buildTool": "أداة البناء",
+    "buildToolValue": "Vite",
+    "state": "إدارة الحالة",
+    "stateValue": "Zustand + TanStack Query",
+    "styling": "التنسيق",
+    "stylingValue": "Tailwind CSS",
+    "testing": "الاختبارات",
+    "testingValue": "Vitest + Testing Library"
+  }
+}

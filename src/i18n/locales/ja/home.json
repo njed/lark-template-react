@@ -1,0 +1,14 @@
+{
+  "title": "Lark Template React",
+  "subtitle": "モダンな React + TypeScript ベストプラクティステンプレート",
+  "techStack": {
+    "buildTool": "ビルドツール",
+    "buildToolValue": "Vite",
+    "state": "状態管理",
+    "stateValue": "Zustand + TanStack Query",
+    "styling": "スタイリング",
+    "stylingValue": "Tailwind CSS",
+    "testing": "テスト",
+    "testingValue": "Vitest + Testing Library"
+  }
+}

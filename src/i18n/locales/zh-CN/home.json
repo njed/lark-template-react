@@ -1,0 +1,14 @@
+{
+  "title": "Lark Template React",
+  "subtitle": "现代化的 React + TypeScript 最佳实践模板",
+  "techStack": {
+    "buildTool": "构建工具",
+    "buildToolValue": "Vite",
+    "state": "状态管理",
+    "stateValue": "Zustand + TanStack Query",
+    "styling": "样式方案",
+    "stylingValue": "Tailwind CSS",
+    "testing": "测试框架",
+    "testingValue": "Vitest + Testing Library"
+  }
+}
